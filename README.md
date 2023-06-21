@@ -6,7 +6,7 @@ https://gitlab.com/ColinKinloch/LatinIME_apk/-/jobs/artifacts/master/raw/build/o
 
 ## Compile
 ```
-git clone https://github.com/ColinKinloch/LatinIME_apk.git
+git clone [https://github.com/ColinKinloch/LatinIME_apk.git](https://github.com/ntduc-let/LatinIME.git)
 cd LatinIME_apk
 git submodule update --init --recursive
 TARGET_BUILD_APPS=true ./gradlew assembleDebug
